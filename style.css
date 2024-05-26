@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: gray;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #333;
+}
+
+.form-control {
+    font-size: 16px;
+}
+
+.btn-primary {
+    font-size: 16px;
+    margin-left: 35%;
+}
+
+#catInfo {
+    margin-top: 30px;
+}
+
+.cat-info {
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.cat-info img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-top: 10px;
+}
